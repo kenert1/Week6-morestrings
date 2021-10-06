@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\TITpe21\MoreString\MoreString\bin\Debug\netcoreapp3.1\MoreString.exe
+C:\Users\opilane\source\repos\TITpe21\MoreString\MoreString\bin\Debug\netcoreapp3.1\MoreString.deps.json
+C:\Users\opilane\source\repos\TITpe21\MoreString\MoreString\bin\Debug\netcoreapp3.1\MoreString.runtimeconfig.json
+C:\Users\opilane\source\repos\TITpe21\MoreString\MoreString\bin\Debug\netcoreapp3.1\MoreString.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\TITpe21\MoreString\MoreString\bin\Debug\netcoreapp3.1\MoreString.dll
+C:\Users\opilane\source\repos\TITpe21\MoreString\MoreString\bin\Debug\netcoreapp3.1\MoreString.pdb
+C:\Users\opilane\source\repos\TITpe21\MoreString\MoreString\obj\Debug\netcoreapp3.1\MoreString.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\TITpe21\MoreString\MoreString\obj\Debug\netcoreapp3.1\MoreString.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\TITpe21\MoreString\MoreString\obj\Debug\netcoreapp3.1\MoreString.AssemblyInfo.cs
+C:\Users\opilane\source\repos\TITpe21\MoreString\MoreString\obj\Debug\netcoreapp3.1\MoreString.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\TITpe21\MoreString\MoreString\obj\Debug\netcoreapp3.1\MoreString.dll
+C:\Users\opilane\source\repos\TITpe21\MoreString\MoreString\obj\Debug\netcoreapp3.1\MoreString.pdb
+C:\Users\opilane\source\repos\TITpe21\MoreString\MoreString\obj\Debug\netcoreapp3.1\MoreString.genruntimeconfig.cache
